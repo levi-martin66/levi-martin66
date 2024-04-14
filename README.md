@@ -1,14 +1,14 @@
-<h1>Hi, I'm Levi! <br/><a href="https://github.com/levi-martin66">cyber security analyst
+<h1>Hi, I'm Levi! <br/><a href="(https://github.com/levi-martin66 )"></a> <a href="www.linkedin.com/in/levi-martin-2bb590210">Cybersecurity Professional</a>, <a href=</a></h1>
 
-<h2> security Projects:</h2>
+<h2>cyber cecurity Projects:</h2>
 
-- <b>active directory home labs </b>
-  - 
+- 
 
 
-LinkedIn (www.linkedin.com/in/levi-martin-2bb590210)
+<h2> 🤳 Connect with me:</h2>
 
- 
+
+linkedin: www.linkedin.com/in/levi-martin-2bb590210
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
