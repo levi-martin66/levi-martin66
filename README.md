@@ -2,25 +2,11 @@
 
 <h2>cyber cecurity Projects:</h2>
 
-- 
+- [Active Directory Lab](https://github.com/levi-martin66/levi-martin66/edit/main/README.md)
+- [Siem lab](https://github.com/levi-martin66/levi-martin66/edit/main/README.md)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>  Connect with me:</h2>
 
 
-linkedin: www.linkedin.com/in/levi-martin-2bb590210
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: www.linkedin.com/in/levi-martin-2bb590210
