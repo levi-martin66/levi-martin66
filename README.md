@@ -3,7 +3,7 @@
 <h2>cyber cecurity Projects:</h2>
 
 - [Active Directory Lab](https://github.com/levi-martin66/activedirectorylab)
-- [Siem lab](https://github.com/levi-martin66/levi-martin66/edit/main/README.md)
+- [Siem lab](https://github.com/levi-martin66/SIEM-lab/blob/main/README.md)
 
 
 <h2>  Connect with me:</h2>
