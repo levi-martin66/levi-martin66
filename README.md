@@ -2,7 +2,7 @@
 
 <h2>cyber cecurity Projects:</h2>
 
-- [Active Directory: Lab coming soon](https://github.com/levi-martin66/activedirectorylab)
+- [Active Directory](https://github.com/levi-martin66/activedirectorylab)
 - [SIEM lab](https://github.com/levi-martin66/SIEM-lab/blob/main/README.md)
 - coding examples to come
 
