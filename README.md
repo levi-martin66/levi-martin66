@@ -6,6 +6,7 @@
 - [SIEM lab](https://github.com/levi-martin66/SIEM-lab/blob/main/README.md)
 - [coding examples](https://github.com/levi-martin66/levi-martin66/edit/main/README.md)
 - [Incident response example](https://github.com/levi-martin66/Incident-response/blob/main/README.md)
+- [EDR and IPS Lab] ().
 
 <h2>  Connect with me:</h2>
 
