@@ -10,4 +10,4 @@
 <h2>  Connect with me:</h2>
 
 
-[LinkedIn:](linkedin.com/in/levi-martin-2bb590210)
+[LinkedIn:]linkedin.com/in/levi-martin-2bb590210
